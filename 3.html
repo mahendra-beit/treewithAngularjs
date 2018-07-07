@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html ng-app="abas-web">
+
+  <head>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.2/css/bootstrap.css" rel="stylesheet" media="all">
+    <link href="treeGrid.css" rel="stylesheet" media="all">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.28/angular.min.js"></script>
+    <script src="ui-bootstrap-tpls.js"></script>
+    <script src="tree-grid-directive.js"></script>
+    <script src="script.js"></script>
+  </head>
+
+  <body>
+  <div ng-controller="DocumentBrowser" ng-init="init(10)">
+    <tree-grid
+      nodes = "nodes"
+      tree-data     = "tree_data"
+      expand-on     = "expanding_property"
+      col-defs      = "col_defs"
+      icon-leaf     = "glyphicon glyphicon-file"
+      icon-expand   = "glyphicon glyphicon-folder-close"
+      icon-collapse = "glyphicon glyphicon-folder-open"></tree-grid>
+      <button type="button" ng-click="getdata()">get data</button>
+      <script type="text/ng-template" id="tree_item.html">
+      </stree-grid>
+   
+    
+       
+    </div>
+    
+</script>
+
+  </div>
+  </body>
+
+</html>

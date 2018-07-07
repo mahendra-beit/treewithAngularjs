@@ -1,0 +1,710 @@
+ {"architectures": [
+    {
+        "id": 401,
+        "name": "MFA1",
+        "accessible": false,
+        "selected": false,
+        "isSplProject": false,
+        "productFamilys": [
+            {
+                "id": 650,
+                "name": "CLA-Klasse",
+                "accessible": false,
+                "selected": false,
+                "isSplProject": false,
+                "projects": [
+                    {
+                        "id": 302,
+                        "name": "BR117",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 25907,
+                                "name": "C117",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 414,
+        "name": "MRA3",
+        "accessible": false,
+        "selected": false,
+        "isSplProject": false,
+        "productFamilys": [
+            {
+                "id": 1355,
+                "name": "S-Klasse",
+                "accessible": false,
+                "selected": false,
+                "isSplProject": false,
+                "projects": [
+                    {
+                        "id": 352,
+                        "name": "BR223",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 49902,
+                                "name": "W/V223",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 345,
+                        "name": "BR217 NF NF",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 49893,
+                                "name": "A217 NF NF",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 413,
+        "name": "MRA2",
+        "accessible": false,
+        "selected": false,
+        "isSplProject": false,
+        "productFamilys": [
+            {
+                "id": 1355,
+                "name": "S-Klasse",
+                "accessible": false,
+                "selected": false,
+                "isSplProject": false,
+                "projects": [
+                    {
+                        "id": 352,
+                        "name": "BR223",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 49902,
+                                "name": "W/V223",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 345,
+                        "name": "BR217 NF NF",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 49893,
+                                "name": "A217 NF NF",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 1354,
+                "name": "E-Klasse",
+                "accessible": false,
+                "selected": false,
+                "isSplProject": false,
+                "projects": [
+                    {
+                        "id": 3300,
+                        "name": "BR258",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 50126,
+                                "name": "C258",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3252,
+                        "name": "BR214",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 50138,
+                                "name": "V214",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 334,
+                        "name": "BR212",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 49859,
+                                "name": "V212 China",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 1353,
+                "name": "C-Klasse",
+                "accessible": false,
+                "selected": false,
+                "isSplProject": false,
+                "projects": [
+                    {
+                        "id": 329,
+                        "name": "BR206",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 49841,
+                                "name": "W206",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 326,
+                        "name": "BR205",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 49831,
+                                "name": "C205",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3250,
+                        "name": "BR236",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 50123,
+                                "name": "C236",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 411,
+        "name": "MRA1",
+        "accessible": false,
+        "selected": false,
+        "isSplProject": false,
+        "productFamilys": [
+            {
+                "id": 1358,
+                "name": "GLC-Klasse",
+                "accessible": false,
+                "selected": false,
+                "isSplProject": false,
+                "projects": [
+                    {
+                        "id": 375,
+                        "name": "BR253",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 50139,
+                                "name": "V253",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 1353,
+                "name": "C-Klasse",
+                "accessible": false,
+                "selected": false,
+                "isSplProject": false,
+                "projects": [
+                    {
+                        "id": 329,
+                        "name": "BR206",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 49841,
+                                "name": "W206",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 326,
+                        "name": "BR205",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 49831,
+                                "name": "C205",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3250,
+                        "name": "BR236",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 50123,
+                                "name": "C236",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 410,
+        "name": "MRA0",
+        "accessible": false,
+        "selected": false,
+        "isSplProject": false,
+        "productFamilys": [
+            {
+                "id": 1354,
+                "name": "E-Klasse",
+                "accessible": false,
+                "selected": false,
+                "isSplProject": false,
+                "projects": [
+                    {
+                        "id": 3300,
+                        "name": "BR258",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 50126,
+                                "name": "C258",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3252,
+                        "name": "BR214",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 50138,
+                                "name": "V214",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 334,
+                        "name": "BR212",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 49859,
+                                "name": "V212 China",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3750,
+        "name": "ZEEP",
+        "accessible": false,
+        "selected": false,
+        "isSplProject": false,
+        "productFamilys": [
+            {
+                "id": 3601,
+                "name": "K-Klasse",
+                "accessible": false,
+                "selected": false,
+                "isSplProject": false,
+                "projects": [
+                    {
+                        "id": 4800,
+                        "name": "BR1000",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 53366,
+                                "name": "100M102",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 407,
+        "name": "MHA2",
+        "accessible": false,
+        "selected": false,
+        "isSplProject": false,
+        "productFamilys": [
+            {
+                "id": 1451,
+                "name": "GLS-Klasse",
+                "accessible": false,
+                "selected": false,
+                "isSplProject": false,
+                "projects": [
+                    {
+                        "id": 310,
+                        "name": "BR167 NF",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 49796,
+                                "name": "X167 NF",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 306,
+                        "name": "BR166",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 49785,
+                                "name": "X166",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 404,
+        "name": "MHA1",
+        "accessible": false,
+        "selected": false,
+        "isSplProject": false,
+        "productFamilys": [
+            {
+                "id": 1451,
+                "name": "GLS-Klasse",
+                "accessible": false,
+                "selected": false,
+                "isSplProject": false,
+                "projects": [
+                    {
+                        "id": 310,
+                        "name": "BR167 NF",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 49796,
+                                "name": "X167 NF",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 306,
+                        "name": "BR166",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 49785,
+                                "name": "X166",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 420,
+        "name": "EVA2",
+        "accessible": false,
+        "selected": false,
+        "isSplProject": false,
+        "productFamilys": [
+            {
+                "id": 265,
+                "name": "EVA2",
+                "accessible": false,
+                "selected": false,
+                "isSplProject": false,
+                "projects": [
+                    {
+                        "id": 390,
+                        "name": "BR296",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 50151,
+                                "name": "X296",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 403,
+        "name": "MFA3",
+        "accessible": false,
+        "selected": false,
+        "isSplProject": false,
+        "productFamilys": [
+            {
+                "id": 550,
+                "name": "A-Klasse",
+                "accessible": false,
+                "selected": false,
+                "isSplProject": false,
+                "projects": [
+                    {
+                        "id": 320,
+                        "name": "BR177 NF",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 49816,
+                                "name": "V177 NF",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 418,
+        "name": "EVA1.5",
+        "accessible": false,
+        "selected": false,
+        "isSplProject": false,
+        "productFamilys": [
+            {
+                "id": 1357,
+                "name": "B-Klasse",
+                "accessible": false,
+                "selected": false,
+                "isSplProject": false,
+                "projects": [
+                    {
+                        "id": 371,
+                        "name": "BR247",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 49953,
+                                "name": "X247",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 368,
+                        "name": "BR243",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 54198,
+                                "name": "X243",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 402,
+        "name": "MFA2",
+        "accessible": false,
+        "selected": false,
+        "isSplProject": false,
+        "productFamilys": [
+            {
+                "id": 1357,
+                "name": "B-Klasse",
+                "accessible": false,
+                "selected": false,
+                "isSplProject": false,
+                "projects": [
+                    {
+                        "id": 371,
+                        "name": "BR247",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 49953,
+                                "name": "X247",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 368,
+                        "name": "BR243",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 54198,
+                                "name": "X243",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
+}

@@ -1,0 +1,52 @@
+ {"architectures": 
+    {
+        "id": 414,
+        "name": "MRA3",
+        "accessible": false,
+        "selected": false,
+        "isSplProject": false,
+        "productFamilys": [
+            {
+                "id": 1355,
+                "name": "S-Klasse",
+                "accessible": false,
+                "selected": false,
+                "isSplProject": false,
+                "projects": [
+                    {
+                        "id": 352,
+                        "name": "BR223",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 49902,
+                                "name": "W/V223",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 345,
+                        "name": "BR217 NF NF",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 49893,
+                                "name": "A217 NF NF",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+ }

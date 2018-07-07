@@ -1,0 +1,36 @@
+ {"architectures": 
+    {
+        "id": 401,
+        "name": "MFA1",
+        "accessible": false,
+        "selected": false,
+        "isSplProject": false,
+        "productFamilys": [
+            {
+                "id": 650,
+                "name": "CLA-Klasse",
+                "accessible": false,
+                "selected": true,
+                "isSplProject": false,
+                "projects": [
+                    {
+                        "id": 302,
+                        "name": "BR117",
+                        "accessible": false,
+                        "selected": true,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 25907,
+                                "name": "C117",
+                                "accessible": false,
+                                "selected": true,
+                                "isSplProject": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

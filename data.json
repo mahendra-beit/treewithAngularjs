@@ -1,0 +1,580 @@
+{
+    "orgUnits": [
+        {
+            "id": 6,
+            "name": "059",
+            "type": "PLANT",
+            "path": "|059",
+            "userOrgUnit":true,
+            "specialProjects" : [],
+            "architectures": [
+                {
+                    "id": 401,
+                    "name": "MFA1",
+                    "accessible": true,
+                    "productFamilys": []
+                },
+                {
+                    "id": 413,
+                    "name": "MRA2",
+                    "accessible": true,
+                    "productFamilys": []
+                },
+                {
+                    "id": 414,
+                    "name": "MRA3",
+                    "accessible": true,
+                    
+                    
+                    "productFamilys": []
+                }
+            ],
+            "children": [
+                {
+                    "id": 203,
+                    "name": "RD/U",
+                    "type": null,
+                    "path": "|059|RD/U",
+                    "specialProjects" : [{
+            	"id"  : 1,
+            	"name": "--",
+            	"checked":true,
+            	"children":[
+            		{
+            		"id":2,
+            		"name":"Nichtschreibende",
+            		"checked":true,
+            		"children":[]
+            		},
+            		{
+            			"id":3,
+            			"name":"Leitungssatz DMU und Tools",
+            			"checked":true,
+            			"children":[{
+            				"id":4,
+            				"name":"Digitalisierung LS",
+            				"checked":true
+            			}]
+            		},
+            		{
+            			"id":5,
+            			"name":"Leitungssatz A-,B-Klasse",
+            			"checked":true,
+            			"children":[{
+            				"id":6,
+            				"name":"Betreuung C/X118",
+            				"checked":true
+            			},{
+            				"id":7,
+            				"name":"Serienbetreuung",
+            				"checked":true
+            			}]
+            		}]
+            }],
+                    "architectures": [
+                       {
+                    "id": 401,
+                    "name": "MFA1",
+                    "accessible": true,
+                                        
+                    "productFamilys": []
+                },
+                {
+                    "id": 413,
+                    "name": "MRA2",
+                    "accessible": true,
+                    
+                    
+                    "productFamilys": []
+                },
+                {
+                    "id": 414,
+                    "name": "MRA3",
+                    "accessible": true,
+                    
+                    
+                    "productFamilys": []
+                }
+                    ],
+                    "children": [
+                        {
+                            "id": 204,
+                            "name": "RD/UB",
+                            "type": null,
+                            "path": "|059|RD/U|RD/UB",
+                            "specialProjects" : [],
+                            "architectures": [
+                               {
+                    "id": 401,
+                    "name": "MFA1",
+                    "accessible": true,
+                                        
+                    "productFamilys": []
+                },
+                {
+                    "id": 413,
+                    "name": "MRA2",
+                    "accessible": true,
+                    
+                    
+                    "productFamilys": []
+                },
+                {
+                    "id": 414,
+                    "name": "MRA3",
+                    "accessible": true,
+                    
+                    
+                    "productFamilys": []
+                }
+                            ],
+                            "children": [
+                                {
+                                    "id": 205,
+                                    "name": "RD/UBL",
+                                    "type": null,
+                                    "path": "|059|RD/U|RD/UB|RD/UBL",
+                                    "specialProjects" : [],
+                                    "architectures": [
+                                       {
+                    "id": 401,
+                    "name": "MFA1",
+                    "accessible": true,
+                                        
+                    "productFamilys": []
+                },
+                {
+                    "id": 413,
+                    "name": "MRA2",
+                    "accessible": true,
+                    
+                    
+                    "productFamilys": []
+                },
+                {
+                    "id": 414,
+                    "name": "MRA3",
+                    "accessible": true,
+                    
+                    
+                    "productFamilys": []
+                }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "name": "RD",
+                    "type": null,
+                    "path": "|059|RD",
+                    "specialProjects" : [],
+                    "architectures": [
+                        {
+                    "id": 401,
+                    "name": "MFA1",
+                    "accessible": true,
+                                        
+                    "productFamilys": []
+                },
+                {
+                    "id": 413,
+                    "name": "MRA2",
+                    "accessible": true,
+                    
+                    
+                    "productFamilys": []
+                },
+                {
+                    "id": 414,
+                    "name": "MRA3",
+                    "accessible": true,
+                    
+                    
+                    "productFamilys": []
+                }
+                    ],
+                    "children": [
+                        {
+                            "id": 142,
+                            "name": "RD/EI",
+                            "type": null,
+                            "path": "|059|RD|RD/EI",
+                            "specialProjects" : [],
+						              	
+                            "architectures": [
+                                {
+                    "id": 401,
+                    "name": "MFA1",
+                    "accessible": true,
+                                        
+                    "productFamilys": []
+                },
+                {
+                    "id": 413,
+                    "name": "MRA2",
+                    "accessible": true,
+                    
+                    
+                    "productFamilys": []
+                },
+                {
+                    "id": 414,
+                    "name": "MRA3",
+                    "accessible": true,
+                    
+                    
+                    "productFamilys": []
+                }
+                            ],
+                            "children": [
+                                {
+                                    "id": 143,
+                                    "name": "RD/EIL",
+                                    "type": null,
+                                    "path": "|059|RD|RD/EI|RD/EIL",
+									"specialProjects" : [],
+                                    "architectures": [
+                                       {
+                    "id": 401,
+                    "name": "MFA1",
+                    "accessible": true,
+                                        
+                    "productFamilys": []
+                },
+                {
+                    "id": 413,
+                    "name": "MRA2",
+                    "accessible": true,
+                    
+                    
+                    "productFamilys": []
+                },
+                {
+                    "id": 414,
+                    "name": "MRA3",
+                    "accessible": true,
+                    
+                    
+                    "productFamilys": []
+                }
+                                    ],
+                                    "children": [
+                                        {
+                                            "id": 157,
+                                            "name": "Leitungssatz A-,B-Klasse",
+                                            "type": null,
+                                            "path": "|059|RD|RD/EI|RD/EIL|Leitungssatz A-,B-Klasse",
+                                            "specialProjects" : [],
+                                            "architectures": [
+                                                {
+                    "id": 401,
+                    "name": "MFA1",
+                    "accessible": true,
+                                        
+                    "productFamilys": []
+                },
+                {
+                    "id": 413,
+                    "name": "MRA2",
+                    "accessible": true,
+                    
+                    
+                    "productFamilys": []
+                },
+                {
+                    "id": 414,
+                    "name": "MRA3",
+                    "accessible": true,
+                    
+                    
+                    "productFamilys": []
+                }
+                                            ],
+                                            "children": null,
+                                            "selectedOrgUnitHeirarchy": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                         {
+                            "id": 225,
+                            "name": "RD/UB",
+                            "type": null,
+                            "path": "|059|RD/U|RD/UB",
+                            "specialProjects" : [],
+                            "architectures": [
+                               {
+                    "id": 401,
+                    "name": "MFA1",
+                    "accessible": true,
+                                        
+                    "productFamilys": []
+                },
+                {
+                    "id": 413,
+                    "name": "MRA2",
+                    "accessible": true,
+                    
+                    
+                    "productFamilys": []
+                },
+                {
+                    "id": 414,
+                    "name": "MRA3",
+                    "accessible": true,
+                    
+                    
+                    "productFamilys": []
+                }
+                            ],
+                            "children": [
+                                {
+                                    "id": 205,
+                                    "name": "RD/UBL",
+                                    "type": null,
+                                    "path": "|059|RD/U|RD/UB|RD/UBL",
+                                    "specialProjects" : [],
+                                    
+                                    "architectures": [
+                                       {
+                    "id": 401,
+                    "name": "MFA1",
+                    "accessible": true,
+                                        
+                    "productFamilys": []
+                },
+                {
+                    "id": 413,
+                    "name": "MRA2",
+                    "accessible": true,
+                    
+                    
+                    "productFamilys": []
+                },
+                {
+                    "id": 414,
+                    "name": "MRA3",
+                    "accessible": true,
+                    
+                    
+                    "productFamilys": []
+                }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "623",
+            "type": "PLANT",
+            "path": "|623",
+            "specialProjects" : [],
+            "architectures": [
+                {
+                    "id": 401,
+                    "name": "MFA1",
+                    "accessible": true,
+                                        
+                    "productFamilys": []
+                },
+                {
+                    "id": 413,
+                    "name": "MRA2",
+                    "accessible": true,
+                    
+                    
+                    "productFamilys": []
+                },
+                {
+                    "id": 414,
+                    "name": "MRA3",
+                    "accessible": true,
+                    
+                    
+                    "productFamilys": []
+                }
+            ],
+            "children": [
+                {
+                    "id": 2,
+                    "name": "IT",
+                    "type": null,
+                    "path": "|623|IT",
+                    
+                    "specialProjects" : [{
+                  	"id"  : 1,
+                  	"name": "--",
+                  	"checked":true,
+                  	"children":[
+                  		{
+                  		"id":2,
+                  		"name":"Nichtschreibende",
+                  		"checked":true,
+                  		"children":[]
+                  		},
+                  		{
+                  			"id":3,
+                  			"name":"IT/Q",
+                  			"checked":true,
+                  			"children":[{
+                  				"id":4,
+                  				"name":"Digitalisierung LS",
+                  				"checked":true
+                  			}]
+                  		},
+                  		{
+                  			"id":5,
+                  			"name":"IT/QR",
+                  			"checked":true,
+                  			"children":[{
+                  				"id":6,
+                  				"name":"Betreuung C/X118",
+                  				"checked":true
+                  			},{
+                  				"id":7,
+                  				"name":"Serienbetreuung",
+                  				"checked":true
+                  			}]
+                  		}]
+                  }],
+                    "architectures": [
+                       {
+                    "id": 401,
+                    "name": "MFA1",
+                    "accessible": true,
+                                        
+                    "productFamilys": []
+                },
+                {
+                    "id": 413,
+                    "name": "MRA2",
+                    "accessible": true,
+                    
+                    
+                    "productFamilys": []
+                },
+                {
+                    "id": 414,
+                    "name": "MRA3",
+                    "accessible": true,
+                    
+                    
+                    "productFamilys": []
+                }
+                    ],
+                    "children": [
+                        {
+                            "id": 3,
+                            "name": "IT/Q",
+                            "type": null,
+                            "path": "|623|IT|IT/Q",
+                            "specialProjects" : [],
+                            
+                            "architectures": [
+                                {
+                    "id": 401,
+                    "name": "MFA1",
+                    "accessible": true,
+                                        
+                    "productFamilys": []
+                },
+                {
+                    "id": 413,
+                    "name": "MRA2",
+                    "accessible": true,
+                    
+                    
+                    "productFamilys": []
+                },
+                {
+                    "id": 414,
+                    "name": "MRA3",
+                    "accessible": true,
+                    
+                    
+                    "productFamilys": []
+                }
+                            ],
+                            "children": [
+                                {
+                                    "id": 145,
+                                    "name": "IT/QR",
+                                    "type": null,
+                                    "path": "|623|IT|IT/Q|IT/QR",
+                                    "specialProjects" : [],
+                                    
+                                    "architectures": [
+                                        {
+                    "id": 401,
+                    "name": "MFA1",
+                    "accessible": true,
+                                        
+                    "productFamilys": []
+                },
+                {
+                    "id": 413,
+                    "name": "MRA2",
+                    "accessible": true,
+                    
+                    
+                    "productFamilys": []
+                },
+                {
+                    "id": 414,
+                    "name": "MRA3",
+                    "accessible": true,
+                    
+                    
+                    "productFamilys": []
+                }
+                                    ],
+              "children": [
+                  {
+                  "id": 146,
+                  "name": "Deputy General Manager",
+                  "type": null,
+                  "path": "|623|IT|IT/Q|IT/QR|Deputy General Manager",
+                  "specialProjects" : [],
+                  "architectures": [
+                     {
+                    "id": 401,
+                    "name": "MFA1",
+                    "accessible": true,
+                                        
+                    "productFamilys": []
+                },
+                {
+                    "id": 413,
+                    "name": "MRA2",
+                    "accessible": true,
+                    
+                    
+                    "productFamilys": []
+                },
+                {
+                    "id": 414,
+                    "name": "MRA3",
+                    "accessible": true,
+                    "productFamilys": []
+                }
+                                            ],
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+]
+}

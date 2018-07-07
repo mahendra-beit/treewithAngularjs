@@ -1,0 +1,166 @@
+ {"architectures": 
+    {
+        "id": 413,
+        "name": "MRA2",
+        "accessible": false,
+        "selected": false,
+        "isSplProject": false,
+        "productFamilys": [
+            {
+                "id": 1355,
+                "name": "S-Klasse",
+                "accessible": false,
+                "selected": true,
+                "isSplProject": false,
+                "projects": [
+                    {
+                        "id": 352,
+                        "name": "BR223",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 49902,
+                                "name": "W/V223",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 345,
+                        "name": "BR217 NF NF",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 49893,
+                                "name": "A217 NF NF",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 1354,
+                "name": "E-Klasse",
+                "accessible": false,
+                "selected": false,
+                "isSplProject": false,
+                "projects": [
+                    {
+                        "id": 3300,
+                        "name": "BR258",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 50126,
+                                "name": "C258",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3252,
+                        "name": "BR214",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 50138,
+                                "name": "V214",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 334,
+                        "name": "BR212",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 49859,
+                                "name": "V212 China",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 1353,
+                "name": "C-Klasse",
+                "accessible": false,
+                "selected": false,
+                "isSplProject": false,
+                "projects": [
+                    {
+                        "id": 329,
+                        "name": "BR206",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 49841,
+                                "name": "W206",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 326,
+                        "name": "BR205",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 49831,
+                                "name": "C205",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3250,
+                        "name": "BR236",
+                        "accessible": false,
+                        "selected": false,
+                        "isSplProject": false,
+                        "carlines": [
+                            {
+                                "id": 50123,
+                                "name": "C236",
+                                "accessible": false,
+                                "selected": false,
+                                "isSplProject": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

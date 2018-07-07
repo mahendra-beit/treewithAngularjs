@@ -1,0 +1,132 @@
+<!doctype html>  
+<html lang="en">  
+   <head>  
+      <meta charset="utf-8">  
+      <title>jQuery UI Resizable functionality</title>  
+      <link href="http://code.jquery.com/ui/1.10.4/themes/ui-lightness/jquery-ui.css" rel="stylesheet">  
+       
+       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+   <script src="http://code.jquery.com/jquery-1.10.2.js"></script>  
+      <script src="http://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+      <!-- CSS -->  
+      <style>  
+         .ui-widget-header {  
+            background:lightyellow;  
+            border: 1px solid #b9cd6d;  
+            color: Red;  
+            font-weight: bold;  
+         }  
+         .ui-widget-content {  
+            background: lightgreen;  
+            border: 1px solid #DDDDDD;  
+            color: Red;  
+         }  
+         #resizable { width: 150px; height: 150px; padding: 0.5em;  
+            text-align: center; margin: 0; }  
+      </style>  
+      <!-- Javascript -->  
+      <script>  
+         $(function() {  
+            $( "#resizable" ).resizable({ 
+                autoHide: true,
+                cancel: ".cancel",
+               handles: "n, e, s, w,ne, se, nw, sw",
+             maxHeight: 250,
+      maxWidth: 350,
+      minHeight: 150,
+      minWidth: 200
+             });  
+         });  
+
+
+/*         var a = [1,2,3,4,5,6,7,8,9,2,1,4,5,4,7,8,9,9];
+         var arr=[10,20,30,20,40,10],
+newarr=[];
+var foo=function(ele, index, array){
+     match=array[index];
+  for(var m in newarr){
+  if(newarr[m]==match)
+    return true;  
+  }
+  newarr.push(match);
+};
+arr.forEach(foo);
+console.log(newarr);*/
+
+         /*var fruits = ["Banana", "Orange", "Apple", "Mango"];
+    var a = fruits.indexOf("Apple");*/
+/*var myresult = [];
+var myresult1 = [];
+    for(var k=0; k<a.length; k++){
+      console.log(a.indexOf(a[k]));
+      if(a.indexOf(a[k]) == -1){
+         myresult.push(a[k])
+      }
+      if(a.indexOf(a[k]) == -1){
+         myresult.push(a[k])
+      }else{
+         myresult1.push(a[k])
+      }
+    }*/
+    /*console.log(myresult1)
+    console.log(myresult)*/
+/*var unique = a.filter(function(item, i, ar){ return ar.indexOf(item) === i; });
+
+console.log("unique  ==>  " + unique);
+
+
+         var arr = [2,3,4,5,6,7,8,9,2,1,4,5,4,7,8,9,9];
+         var sorted_arr = arr.slice().sort();
+         console.log(sorted_arr)
+        var results = [];
+        var results2 = [];
+            for (var i = 0; i < sorted_arr.length - 1; i++) {
+                if (sorted_arr[i + 1] == sorted_arr[i]) {
+                    results.push(sorted_arr[i]);
+                }else{
+                  results2.push(sorted_arr[i]);
+                }
+            }
+
+console.log(results);
+console.log(results2);*/
+      </script>  
+   </head>  
+  
+   <body>  
+      <!-- HTML --> 
+      <div class="container">
+  <h2>Modal Example</h2>
+  <!-- Trigger the modal with a button -->
+  <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Open Modal</button>
+
+  <!-- Modal -->
+  <div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">Modal Header</h4>
+        </div>
+        <div class="modal-body ui-widget-header ui-widget-content" id="resizable" >
+          <p>Some text in the modal.</p>
+          <div >   
+         <h3 class="">Pull my edges to resize me!!</h3>  
+      </div>  
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+  
+</div>  
+      
+  </body>  
+</html>  
